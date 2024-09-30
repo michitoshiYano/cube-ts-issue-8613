@@ -1,0 +1,11 @@
+{
+    "extends": "@tsconfig/node-lts/tsconfig.json",
+    "compilerOptions": {
+      /* Visit https://aka.ms/tsconfig to read more about this file */
+  
+      "rootDir": "./src",
+      "outDir": "./dist",
+      "sourceMap": true,
+      "moduleResolution": "nodenext",
+    },
+  }
