@@ -1,0 +1,15 @@
+{
+  "name": "cube-ts-issue-8613",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@cubejs-client/core": "^0.36.4",
+    "dotenv": "^16.4.5"
+  }
+}
